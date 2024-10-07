@@ -25,5 +25,5 @@ Sebelum menjalankan proyek ini, pastikan Anda memiliki perangkat lunak berikut t
 
 1. **Kloning repositori ini:**
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/fakhrialfi9/kanggo-php.git
    ```
