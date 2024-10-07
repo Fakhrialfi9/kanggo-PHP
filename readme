@@ -1,0 +1,29 @@
+# Report App
+
+**Author:** Muhammad Fakhri Alfi Syahrin H  
+**Description:** Ini adalah aplikasi laporan sederhana yang dibangun menggunakan PHP Native.
+
+## Daftar Isi
+
+- [Prasyarat](#prasyarat)
+- [Instalasi](#instalasi)
+- [Menjalankan Proyek](#menjalankan-proyek)
+- [Struktur Proyek](#struktur-proyek)
+- [Penggunaan](#penggunaan)
+- [Kontribusi](#kontribusi)
+- [Lisensi](#lisensi)
+
+## Prasyarat
+
+Sebelum menjalankan proyek ini, pastikan Anda memiliki perangkat lunak berikut terpasang di sistem Anda:
+
+- **PHP** (versi 7.4 atau lebih tinggi)
+- **Web Server** (misalnya Apache atau Nginx)
+- **Database** (jika diperlukan, misalnya MySQL)
+
+## Instalasi
+
+1. **Kloning repositori ini:**
+   ```bash
+   git clone https://github.com/username/repo-name.git
+   ```
